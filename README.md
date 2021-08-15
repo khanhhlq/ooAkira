@@ -7,7 +7,7 @@
 - 🌱 Coder is stupid in vietnamesezzz
 - 🤞  Fun fact: nah kkk
 
-<h1>I can speak: </h1>
+<h1>I can speak 🤔: </h1>
 <span>
 <img src="https://bit.ly/3jUTfOY" alt = "F..." title="JS" width="52">
 <img src="https://bit.ly/3g5c4xU" alt = "F..." title="PYTHON" width="52">
