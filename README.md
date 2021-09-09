@@ -7,4 +7,5 @@
 - 🌱 Coder
 - 🤞  Fun fact: nah kkk
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ooAkira&show_icons=true&theme=nightowl)](https://github.com/ooAkira)
 
