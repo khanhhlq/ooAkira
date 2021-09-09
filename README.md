@@ -4,8 +4,7 @@
 
 ✨cool stuff✨
 - 🔭 Photographic
-- 🌱 Coder is stupid in vietnamesezzz
+- 🌱 Coder
 - 🤞  Fun fact: nah kkk
 
-<h1>I can speak 🤔: Java, HTML, CSS, JS, C, C++, PYTHON</h1>
 
