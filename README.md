@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
 
-<p align="center"><img src="https://bit.ly/3CKC0Zk" width="100" height="100" alt="akira"></p>
+<p align="center"><img src="https://bit.ly/3tOtmoq" width="100" height="100" alt="akira"></p>
 <p align="center">Akira</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Akira&label=Lượt+xem+profile:" alt="luotxemprofile"></p>
 
