@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+my+friends+!;My+name+is+thanhyou00;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+my+friends+!;My+name+is+Akira;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
   </a>
 </div>
 
