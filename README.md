@@ -11,8 +11,8 @@
 </div>
 
 ## Information:
-### Belong to:
-- <a href="https://github.com/J4F-Studio">C4F Studio</a>
+<!-- ### Belong to:
+- <a href="https://github.com/J4F-Studio">C4F Studio</a> -->
 
 ### IDE:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
