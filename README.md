@@ -9,7 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+my+friends+!;My+name+is+Akira;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
   </a>
 </div>
+
 <details>
+  
 <summary>Information</summary>
  
 <!-- ### Belong to:
@@ -49,6 +51,6 @@
 
 ## Contact:
 - Email: <code>lee.quockhanh11107@gmail.com</code>
+</details>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)
-</detail>
