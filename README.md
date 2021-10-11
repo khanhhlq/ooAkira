@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Akira&label=Viewer:" alt="Viewer"></p>
 
 <div align="center">
-  <a href="https://github.com/thanhyou00">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+my+friends+!;My+name+is+Akira;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
   </a>
 </div>
