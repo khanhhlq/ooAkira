@@ -1,21 +1,9 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ZenithGn")
+</a>
+<a href="https://github.com/ZenithGn?tab=followers"><img src="https://img.shields.io/github/followers/ZenithGn?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCwy_qNDh2QUCkJXLUi_9oVXrrenC8EChr1w&usqp=CAU" width="100" height="100" alt="akira"></p>
-<p align="center">Akira</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Akira&label=Viewer:" alt="Viewer"></p>
-
-<div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+guys+!;My+name+is+Akira;And+I+am+a+Web+Developer;Have+a+good+day+!&center=true&width=450&height=45"/>
-  </a>
-</div>
-
-<!-- <details> -->
-  
-<!-- <summary>Information</summary> -->
- 
-<!-- ### Belong to:
-- <a href="https://github.com/J4F-Studio">C4F Studio</a> -->
+<h3 align="center"> Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akira</h1>
 
 ### IDE:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -41,17 +29,21 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ooAkira&theme=radical)](https://www.github.com/ooAkira)
+<br/>	
+	
 
-<!-- ## Github Stats
-[![ooAkira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooAkira&count_private=true&show_icons=true&theme=radical)](https://www.github.com/ooAkira) -->
+## 📊 My Github Stats
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooAkira&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/ooAkira)
+<br/>
+<a href="https://github.com/ooAkira/github-readme-stats"><img alt="ooAkira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ooAkira&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ooAkira/github-readme-stats"><img alt="ooAkira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooAkira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/ooAkira/github-readme-activity-graph"><img alt="ooAkira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ooAkira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 
 ## Contact:
 - Email: <code>lee.quockhanh11107@gmail.com</code>
-<!-- </details> -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)
