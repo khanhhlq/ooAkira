@@ -1,7 +1,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ZenithGn")
+    <img src="https://komarev.com/ghpvc/?username=ooAkira")
 </a>
-<a href="https://github.com/ZenithGn?tab=followers"><img src="https://img.shields.io/github/followers/ZenithGn?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ooAkira?tab=followers"><img src="https://img.shields.io/github/followers/ooAkira?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center"> Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akira</h1>
 
