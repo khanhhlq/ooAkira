@@ -54,4 +54,5 @@
 
 ## 🤙 Contact
 - Email: <code>lee.quockhanh11107@gmail.com</code>
+<!-- ![Discord Banner 4](https://discordapp.com/api/guilds/914867046251126794/widget.png?style=banner4) -->
 
