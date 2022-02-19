@@ -67,5 +67,19 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <a href="https://github.com/ooAkira/github-readme-stats"><img alt="ooAkira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooAkira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="#"><img alt="ooAkira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ooAkira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+---
 
+<p align="left">
+    <a href="#">
+        <img width="20%" src="./hand.gif" alt="" />
+    </a>
+    <a href="#">
+        <img width="59%" src="./spacer.png" alt="" >
+    </a>
+    <a href="#">
+        <img width="20%" src="./skull.gif" alt="" />
+    </a>
+</p>
+
+---
 
