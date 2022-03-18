@@ -69,7 +69,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ---
 
-<p align="left">
+<!-- <p align="left">
     <a href="#">
         <img width="20%" src="./hand.gif" alt="" />
     </a>
@@ -79,7 +79,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
     <a href="#">
         <img width="20%" src="./skull.gif" alt="" />
     </a>
-</p>
+</p> -->
 
 ---
 
