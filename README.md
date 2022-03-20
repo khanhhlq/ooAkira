@@ -3,16 +3,16 @@
 	<img src="https://img.shields.io/github/followers/ooAkira?label=Followers&style=social" alt="GitHub Badge">
 </a>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h3 align="center"><samp><strong>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Akira</strong></samp></h1>
+<!-- <h3 align="center"><samp><strong>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Akira</strong></samp></h1> -->
 
 
-<h2 align='center'></h2>
+<!-- <h2 align='center'></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Let's go! Bro🚀</a></strong></h3>
-<p align='center'>Software developer - Web developer</p>
+<p align='center'>Software developer - Web developer</p> -->
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<!-- <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. -->
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -62,10 +62,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 
-<h2 align='center'></h2>
+<!-- <h2 align='center'></h2>
 <a href="#"><img alt="ooAkira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ooAkira&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/ooAkira/github-readme-stats"><img alt="ooAkira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooAkira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="#"><img alt="ooAkira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ooAkira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="ooAkira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ooAkira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <!-- --- -->
 
