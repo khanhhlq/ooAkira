@@ -1,7 +1,3 @@
-<a href="#">
-	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-	<img src="https://img.shields.io/github/followers/ooAkira?label=Followers&style=social" alt="GitHub Badge">
-</a>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!-- <h3 align="center"><samp><strong>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Akira</strong></samp></h1> -->
 
@@ -38,7 +34,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 🌍 **Deployment platforms:**<br>
-
+<img align='right' src='./code.gif'>
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
@@ -58,7 +54,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) 
 
 
 
