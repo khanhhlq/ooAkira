@@ -1,4 +1,4 @@
-💻 **Languages and Tools:** 🛠️<br>
+<!-- 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -42,6 +42,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) 
-
+ -->
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 <img align='right' src='./code.gif'>
