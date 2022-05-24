@@ -44,12 +44,12 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) 
  -->
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
-<p align="center">
-  <img src="./code.gif">
+<!-- <p align="center">
+  <img src="002_presSeries.jpg" width="800">
+</p>
+<p align="center"> -->
+ <p align="center">
+  <img src="8486872752_6fb37eda8b_b.jpg" width="300">
 </p>
 <p align="center">
-🌁 𝙄 𝙖𝙢 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙛𝙤𝙧 𝙚𝙭𝙖𝙢𝙨 𝙣𝙤𝙬 🌼<br />
-╔═══.·:·.☽✧ ✦ ✧☾.·:·.═══╗<br />
-𝐪𝐮𝐢𝐞𝐭 𝐣𝐚𝐳𝐳 / 𝐓𝐨𝐤𝐲𝐨 𝐓𝐨𝐰𝐞𝐫<br />
-╚═══.·:·.☽✧ ✦ ✧☾.·:·.═══╝<br />
-</p>
+
